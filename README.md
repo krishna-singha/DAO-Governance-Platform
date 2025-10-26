@@ -11,7 +11,7 @@
 - Wallet Integration: Connect MetaMask or WalletConnect for secure authentication.
 
 ## Tech Stack
-- Frontend: React, Tailwind CSS
+- Frontend: React, Tailwind CSS, Zustand
 - Backend: Express
 - Database: MongoDB
 - Blockchain: Solidity, Ethers.js / Web3.js
