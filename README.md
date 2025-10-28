@@ -10,6 +10,8 @@
 - Analytics Dashboard: Track voting activity, participation rates, and proposal outcomes.
 - Wallet Integration: Connect MetaMask or WalletConnect for secure authentication.
 
+
+
 ## Tech Stack
 - Frontend: React, Tailwind CSS, Zustand
 - Backend: Express
