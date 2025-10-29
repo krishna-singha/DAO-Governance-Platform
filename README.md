@@ -19,3 +19,5 @@
 - Blockchain: Solidity, Ethers.js / Web3.js
 - Authentication: Wallet-based login (MetaMask / WalletConnect)
 
+
+
